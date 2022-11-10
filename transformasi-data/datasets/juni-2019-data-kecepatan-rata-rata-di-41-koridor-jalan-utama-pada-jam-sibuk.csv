@@ -1,11 +1,11 @@
 waktu,arah,koridor,target_kecepatan,jarak,target_waktu_tempuh,pencapaian_kecepatan_per_koridor,pencapaian_kecepatan,pencapaian_waktu_tempuh
-pagi,selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,24,19.62,49.05,32.42,31.73,47.29
-pagi,selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,24,13.36,33.4,33.78,31.73,28.68
-pagi,selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,24,11.13,27.83,31.95,31.73,24.49
-pagi,selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,24,16.25,40.63,33.9,31.73,36.36
-pagi,selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24,15.87,39.68,38.5,31.73,29.18
-pagi,selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,24,12.25,30.63,23.43,31.73,35.4
-pagi,selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24,13.4,33.5,28.15,31.73,32.76
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,24,19.62,49.05,32.42,31.73,47.29
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,24,13.36,33.4,33.78,31.73,28.68
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,24,11.13,27.83,31.95,31.73,24.49
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,24,16.25,40.63,33.9,31.73,36.36
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24,15.87,39.68,38.5,31.73,29.18
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,24,12.25,30.63,23.43,31.73,35.4
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24,13.4,33.5,28.15,31.73,32.76
 pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,24,17.08,42.7,30.02,31.36,47.56
 pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,24,21.21,53.03,29.16,31.36,59.51
 pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,24,9.39,23.48,32.16,31.36,23.38
@@ -40,13 +40,13 @@ pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalide
 pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,24,15.55,38.88,24.2,32.27,42.06
 pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,24,17.43,43.58,33.01,32.27,43.18
 pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,24,16.23,40.58,28.88,32.27,45.29
-sore,selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,24,19.62,49.05,28.34,29.47,42.56
-sore,selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,24,13.36,33.4,29.84,29.47,29.11
-sore,selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,24,11.13,27.83,33.03,29.47,22.01
-sore,selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,24,16.25,40.63,24.63,29.47,41.26
-sore,selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24,15.87,39.68,33.56,29.47,28.96
-sore,selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,24,12.25,30.63,27.57,29.47,27.5
-sore,selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24,13.4,33.5,29.31,29.47,28.54
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,24,19.62,49.05,28.34,29.47,42.56
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,24,13.36,33.4,29.84,29.47,29.11
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,24,11.13,27.83,33.03,29.47,22.01
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,24,16.25,40.63,24.63,29.47,41.26
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24,15.87,39.68,33.56,29.47,28.96
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,24,12.25,30.63,27.57,29.47,27.5
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24,13.4,33.5,29.31,29.47,28.54
 sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,24,17.08,42.7,27.75,31.89,43.99
 sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,24,21.21,53.03,34.24,31.89,53.32
 sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,24,9.39,23.48,31.72,31.89,21.28
