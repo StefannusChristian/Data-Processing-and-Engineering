@@ -1,0 +1,472 @@
+Timestamp,Jenis Beasiswa ,Tingkat Pendidikan yang Dituju,Negara Tujuan Kuliah,Bidang Studi yang dipilih saat mendaftar,Mendaftar dengan menggunakan LoA sesuai ketentuan LPDP ,Apakah anda dinyatakan Lulus Seleksi Substansi Akademik Pada gelombang I Tahun 2021?,Jumlah Jawaban Benar pada Tes Penalaran Verbal,Jumlah Jawaban Benar pada Tes Kuantitatif,Jumlah Jawaban Benar pada Tes Pemecahan Masalah,[optional] Kampus/universitas tujuan saat ini (pilihan 1)
+6/24/2021 15:54:15,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,10,12,6,Universitas Indonesia
+6/24/2021 15:54:22,Reguler,S2,Luar Negeri,ENE,"Ya, dengan Loa",Ya,17,22,8,UCL
+6/24/2021 15:54:54,Targeted,S2,Luar Negeri,ELE,"Ya, dengan Loa",Ya,16,18,7,KTH Sweden
+6/24/2021 15:56:06,Reguler,S2,Dalam negeri,LIN,Tidak,Tidak,15,12,4,UGM
+6/24/2021 15:56:28,Afirmasi,S2,Luar Negeri,LIN,Tidak,Ya,16,9,7,University of Birmingham
+6/24/2021 15:56:57,Targeted,S2,Luar Negeri,Dev,"Ya, dengan Loa",Ya,17,11,4,KU leuven
+6/24/2021 15:56:59,Afirmasi,S2,Dalam negeri,HUM,Tidak,Ya,17,16,4,Universitas Gadjah Mada
+6/24/2021 15:57:21,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,19,4,
+6/24/2021 15:57:32,Reguler,S2,Luar Negeri,AFR,"Ya, dengan Loa",Ya,13,16,7,Uni of Reading
+6/24/2021 15:57:33,Targeted,S3,Luar Negeri,BUS,Tidak,Ya,16,18,8,University of Auckland
+6/24/2021 15:57:39,Reguler,S2,Luar Negeri,WAT,"Ya, dengan Loa",Ya,20,15,7,IHE Delft
+6/24/2021 15:57:50,Reguler,S2,Luar Negeri,MAR,"Ya, dengan Loa",Ya,14,14,7,University of Michigan
+6/24/2021 15:58:00,Afirmasi,S2,Dalam negeri,SOS,Tidak,Ya,14,13,5,Universitas Indonesia
+6/24/2021 15:58:20,Reguler,S2,Luar Negeri,HOS,"Ya, dengan Loa",Tidak,13,13,6,
+6/24/2021 15:58:22,Targeted,S2,Luar Negeri,STA,"Ya, dengan Loa",Ya,12,17,5,
+6/24/2021 15:58:55,Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,13,12,6,Universitas Airlangga
+6/24/2021 15:59:04,Afirmasi,S2,Luar Negeri,EDU,Tidak,Ya,12,9,7,Durham University
+6/24/2021 15:59:16,Targeted,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,13,14,3,
+6/24/2021 15:59:19,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,22,7,UNY
+6/24/2021 15:59:21,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,15,21,6,
+6/24/2021 15:59:27,Targeted,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,15,16,6,New York University
+6/24/2021 15:59:29,Targeted,S3,Dalam negeri,TRP,Tidak,Ya,15,8,8,UGM
+6/24/2021 15:59:50,Targeted,S2,Luar Negeri,LAW,Tidak,Ya,14,15,7,Penn State University
+6/24/2021 15:59:52,Targeted,S2,Luar Negeri,SGY,"Ya, dengan Loa",Ya,13,14,8,York University 
+6/24/2021 15:59:54,Targeted,S3,Luar Negeri,ACF,Tidak,Ya,17,15,9,University of Birmingham
+6/24/2021 16:00:04,Targeted,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,18,21,6,University of Glasgow
+6/24/2021 16:00:11,Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Tidak,13,15,4,University of Edinburgh
+6/24/2021 16:00:19,Reguler,S2,Dalam negeri,SOS,Tidak,Ya,16,21,8,UGM
+6/24/2021 16:00:30,Afirmasi,S2,Dalam negeri,IPA,"Ya, dengan Loa",Ya,17,13,7,IPB
+6/24/2021 16:00:38,Targeted,S2,Luar Negeri,PHA,Tidak,Ya,12,15,7,Titech
+6/24/2021 16:00:47,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,14,9,
+6/24/2021 16:02:04,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,15,17,9,UNY
+6/24/2021 16:02:08,Afirmasi,S2,Dalam negeri,FOR,Tidak,Ya,15,20,4,Universitas Gadjah Mada
+6/24/2021 16:02:14,Reguler,S2,Dalam negeri,BUS,Tidak,Ya,15,15,6,UPI
+6/24/2021 16:02:26,Reguler,S2,Luar Negeri,ENE,Tidak,Ya,15,17,5,TU Delft
+6/24/2021 16:02:34,Reguler,S2,Luar Negeri,COM,"Ya, dengan Loa",Tidak,13,15,4,Lund University
+6/24/2021 16:02:50,Reguler,S2,Luar Negeri,ELE,Tidak,Ya,15,21,6,
+6/24/2021 16:02:54,Reguler,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,14,19,8,University of Edinburgh
+6/24/2021 16:03:22,Targeted,S2,Luar Negeri,DEF,"Ya, dengan Loa",Ya,10,16,7,Univ of Leeds
+6/24/2021 16:03:42,Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,13,12,6,Universitas Airlangga
+6/24/2021 16:04:04,Reguler,S2,Luar Negeri,PUB,Tidak,Ya,17,15,4,LSE
+6/24/2021 16:04:11,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,20,4,Universitas Gadjah Mada
+6/24/2021 16:04:13,Targeted,S2,Dalam negeri,FOR,Tidak,Ya,18,21,8,ITS
+6/24/2021 16:05:06,Reguler,S2,Dalam negeri,SOS,Tidak,Ya,19,14,7,UI
+6/24/2021 16:05:08,Targeted,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,18,13,8,University of Sussex
+6/24/2021 16:05:58,Targeted,S2,Dalam negeri,SOs,Tidak,Ya,18,20,4,UGM
+6/24/2021 16:05:59,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,20,4,ITB
+6/24/2021 16:06:11,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,16,3,UGM
+6/24/2021 16:06:34,Targeted,S2,Luar Negeri,ATM,Tidak,Ya,15,16,2,Pennsylvania State University
+6/24/2021 16:07:03,Reguler,S2,Luar Negeri,PUB,Tidak,Ya,15,16,6,University of Melbourne
+6/24/2021 16:07:18,Reguler,S2,Luar Negeri,EDU,Tidak,Ya,17,16,4,Columbia University
+6/24/2021 16:07:42,Reguler,S3,Luar Negeri,ENV,Tidak,Ya,18,13,8,
+6/24/2021 16:08:08,Reguler,S2,Dalam negeri,SOS,Tidak,Tidak,16,7,5,
+6/24/2021 16:08:20,Reguler,S2,Luar Negeri,ENG,"Ya, dengan Loa",Tidak,15,12,4,University of Adelaide 
+6/24/2021 16:08:54,Afirmasi,S2,Dalam negeri,-,"Ya, dengan Loa",Ya,13,9,6,Universitas Pendidikan Indonesia
+6/24/2021 16:10:11,Reguler,S2,Luar Negeri,CBS,"Ya, dengan Loa",Ya,12,18,9,unsw
+6/24/2021 16:10:11,Reguler,S3,Luar Negeri,CHE,Tidak,Ya,16,20,9,University of Birmingham 
+6/24/2021 16:10:42,Afirmasi,S2,Dalam negeri,FOR,Tidak,Ya,12,16,5,UGM
+6/24/2021 16:10:55,Reguler,S3,Dalam negeri,SOS,Tidak,Tidak,15,7,8,
+6/24/2021 16:11:12,Reguler,S2,Luar Negeri,KES,"Ya, dengan Loa",Tidak,14,18,3,UCL
+6/24/2021 16:11:25,Afirmasi,S3,Luar Negeri,EDU,Tidak,Ya,13,8,6,Georgetown University 
+6/24/2021 16:11:31,Reguler,S2,Dalam negeri,IPA,Tidak,Ya,13,19,4,ITB
+6/24/2021 16:11:54,Targeted,S2,Dalam negeri,BUS,Tidak,Ya,12,12,6,Universitas Gadjah Mada
+6/24/2021 16:12:00,Reguler,S2,Luar Negeri,DEV,Tidak,Ya,18,16,8,
+6/24/2021 16:12:29,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,7,5,Ugm
+6/24/2021 16:12:35,Targeted,S2,Luar Negeri,ECT,Tidak,Ya,11,13,7,Sweden
+6/24/2021 16:12:45,Afirmasi,S2,Luar Negeri,DEV,Tidak,Ya,13,11,6,Wageningen University and Research
+6/24/2021 16:12:52,Reguler,S2,Dalam negeri,FOR,Tidak,Ya,14,20,5,UGM
+6/24/2021 16:13:09,Reguler,S3,Luar Negeri,ELE,Tidak,Ya,16,20,9,University of Tokyo
+6/24/2021 16:13:38,Reguler,S2,Luar Negeri,DEV,Tidak,Ya,16,18,12,MIT
+6/24/2021 16:13:41,Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,14,4,UI
+6/24/2021 16:14:23,Reguler,S2,Luar Negeri,AER,Tidak,Ya,15,20,4,ICL
+6/24/2021 16:14:23,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,15,8,UGM
+6/24/2021 16:15:01,Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,9,7,5,INSEAD
+6/24/2021 16:15:13,Reguler,S2,Luar Negeri,ICT,Tidak,Ya,17,13,7,
+6/24/2021 16:15:49,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,13,4,UI
+6/24/2021 16:16:27,Targeted,S2,Luar Negeri,PUB,Tidak,Ya,13,14,4,
+6/24/2021 16:16:29,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,14,17,4,Universitas Gadjah Mada
+6/24/2021 16:17:23,Targeted,S2,Luar Negeri,ATM,"Ya, dengan Loa",Ya,13,15,9,University of Helsinki
+6/24/2021 16:17:25,Afirmasi,S2,Dalam negeri,BUS,Tidak,Ya,11,12,6,Universitas Indonesia
+6/24/2021 16:17:46,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,14,18,5,Ugm
+6/24/2021 16:18:04,Reguler,S2,Luar Negeri,ARC,Tidak,Ya,17,19,5,
+6/24/2021 16:18:08,Afirmasi,S2,Luar Negeri,STA,Tidak,Ya,17,18,10,University of Twente
+6/24/2021 16:18:12,Reguler,S2,Luar Negeri,BIO,"Ya, dengan Loa",Ya,15,16,7,Wageningen University and Research 
+6/24/2021 16:18:26,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,14,23,5,Johns Hopkins University
+6/24/2021 16:18:44,Reguler,S2,Luar Negeri,POL,Tidak,Ya,12,17,8,KCL
+6/24/2021 16:19:07,Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,17,16,7,UCL
+6/24/2021 16:19:08,Afirmasi,S2,Dalam negeri,Bus,Tidak,Tidak,7,7,2,UI
+6/24/2021 16:19:32,Afirmasi,S2,Dalam negeri,IPA,"Ya, dengan Loa",Ya,14,13,5,ITB
+6/24/2021 16:20:33,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,14,14,9,UGM
+6/24/2021 16:21:32,Reguler,S2,Dalam negeri,M,"Ya, dengan Loa",Tidak,13,10,7,UNESA
+6/24/2021 16:21:50,Reguler,S2,Dalam negeri,SOS,Tidak,Ya,18,10,8,Universitas Gadjah Mada
+6/24/2021 16:22:08,Targeted,S2,Dalam negeri,SOS,Tidak,Ya,16,17,6,
+6/24/2021 16:23:07,Reguler,S2,Luar Negeri,Afr,"Ya, dengan Loa",Ya,17,14,8,Wur
+6/24/2021 16:23:19,Reguler,S2,Luar Negeri,ENE,"Ya, dengan Loa",Ya,18,15,6,University of Glasgow
+6/24/2021 16:23:40,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,15,15,6,UGM
+6/24/2021 16:24:29,Targeted,S2,Luar Negeri,SOC,Tidak,Ya,18,19,7,Harvard University
+6/24/2021 16:24:38,Afirmasi,S2,Luar Negeri,PUB,Tidak,Ya,15,13,8,University of Melbourne
+6/24/2021 16:24:49,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,14,16,6,Universitas Indonesia
+6/24/2021 16:25:11,Reguler,S3,Luar Negeri,MED,Tidak,Ya,15,21,7,UCL
+6/24/2021 16:25:51,Reguler,S2,Luar Negeri,CIV,Tidak,Ya,16,15,5,NUS
+6/24/2021 16:27:36,Targeted,S2,Luar Negeri,BUS,Tidak,Ya,14,17,7,University of Southern California
+6/24/2021 16:28:16,Reguler,S2,Luar Negeri,LAW,Tidak,Tidak,13,11,6,UC Berkeley
+6/24/2021 16:29:00,Reguler,S2,Luar Negeri,EDU,Tidak,Ya,14,18,6,University of Manchester 
+6/24/2021 16:29:41,Afirmasi,S2,Dalam negeri,SOS,"Ya, dengan Loa",Ya,13,6,7,Universitas Gadjah Mada
+6/24/2021 16:29:45,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,16,15,9,UI
+6/24/2021 16:30:29,Reguler,S3,Luar Negeri,PHA,Tidak,Ya,14,18,6,UCL
+6/24/2021 16:30:45,Reguler,S2,Luar Negeri,PUB,Tidak,Ya,18,11,7,U of Alberta
+6/24/2021 16:31:30,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,19,20,7,Universitas Indonesia
+6/24/2021 16:32:09,Afirmasi,S2,Luar Negeri,BUS,Tidak,Ya,11,14,3,Arizona State University
+6/24/2021 16:32:10,Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,13,16,3,ITB
+6/24/2021 16:32:16,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,13,13,5,UGM
+6/24/2021 16:32:18,Reguler,S2,Luar Negeri,PUB,Tidak,Tidak,17,12,5,University of Michigan
+6/24/2021 16:33:20,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,19,18,4,UGM
+6/24/2021 16:33:51,Reguler,S2,Dalam negeri,SOS,"Ya, dengan Loa",Ya,12,13,10,Universitas Gadjah Mada
+6/24/2021 16:34:05,Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Tidak,16,11,1,University of Melbourne
+6/24/2021 16:35:18,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,15,12,6,UI
+6/24/2021 16:35:59,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,17,21,7,UI
+6/24/2021 16:36:07,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,19,8,2,U
+6/24/2021 16:36:36,Reguler,S2,Luar Negeri,PSY,"Ya, dengan Loa",Ya,13,18,8,
+6/24/2021 16:36:38,Reguler,S3,Luar Negeri,MET,Tidak,Tidak,14,10,4,Monash university australia
+6/24/2021 16:38:02,Reguler,S2,Luar Negeri,ICT,Tidak,Ya,15,17,5,
+6/24/2021 16:38:17,Reguler,S2,Dalam negeri,M,"Ya, dengan Loa",Tidak,13,10,7,UNESA
+6/24/2021 16:39:12,Targeted,S3,Dalam negeri,-,"Ya, dengan Loa",Ya,10,12,8,Universitas Airlangga
+6/24/2021 16:39:38,Afirmasi,S2,Luar Negeri,CIV,Tidak,Ya,14,12,3,Purdue University
+6/24/2021 16:39:54,Afirmasi,S2,Dalam negeri,IPA,Tidak,Ya,9,19,8,ITB
+6/24/2021 16:40:15,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,10,12,5,UPI
+6/24/2021 16:40:20,Afirmasi,S2,Dalam negeri,Bus,Tidak,Ya,15,10,5,Ugm
+6/24/2021 16:40:23,Targeted,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,14,20,6,University of Michigan 
+6/24/2021 16:41:25,Targeted,S3,Dalam negeri,TRP,Tidak,Ya,14,13,6,UGM
+6/24/2021 16:43:08,Reguler,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,16,15,7,ISS
+6/24/2021 16:43:25,Targeted,S3,Luar Negeri,ICT,"Ya, dengan Loa",Ya,12,15,4,University of Groningen
+6/24/2021 16:44:22,Reguler,S3,Dalam negeri,FOR,Tidak,Ya,16,17,6,UGM
+6/24/2021 16:44:43,Reguler,S2,Luar Negeri,ECO,Tidak,Tidak,12,16,7,Columbia University
+6/24/2021 16:45:00,Reguler,S2,Luar Negeri,EDU,Tidak,Tidak,13,10,10,UCL
+6/24/2021 16:45:26,Afirmasi,S2,Dalam negeri,Bio,Tidak,Ya,15,17,6,Unsoed
+6/24/2021 16:46:08,Reguler,S3,Luar Negeri,BIO,"Ya, dengan Loa",Ya,17,16,5,University of Bristol
+6/24/2021 16:46:44,Targeted,S2,Dalam negeri,Bus,Tidak,Ya,12,18,7,
+6/24/2021 16:47:21,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,15,6,UGM
+6/24/2021 16:48:22,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,11,11,8,ITB
+6/24/2021 16:48:35,Afirmasi,S2,Dalam negeri,TEK,Tidak,Ya,12,18,4,UGM
+6/24/2021 16:49:15,Reguler,S2,Luar Negeri,FOO,"Ya, dengan Loa",Ya,18,19,10,
+6/24/2021 16:50:02,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,24,10,ITB
+6/24/2021 16:50:14,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,18,13,5,UNESA
+6/24/2021 16:50:36,Targeted,S3,Luar Negeri,ENV,"Ya, dengan Loa",Ya,16,17,8,WUR
+6/24/2021 16:50:58,Reguler,S2,Dalam negeri,Bus,Tidak,Tidak,12,9,7,
+6/24/2021 16:51:03,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,20,23,10,Stanford University
+6/24/2021 16:52:36,Reguler,S3,Dalam negeri,TRP,Tidak,Ya,14,12,9,ITB
+6/24/2021 16:53:17,Reguler,S2,Luar Negeri,Tra,Tidak,Ya,18,20,4,Kth
+6/24/2021 16:53:20,Reguler,S3,Luar Negeri,ELE,"Ya, dengan Loa",Tidak,11,17,5,NTU Singapore
+6/24/2021 16:54:01,Reguler,S2,Luar Negeri,ICT,Tidak,Ya,15,22,6,
+6/24/2021 16:54:27,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,17,19,6,
+6/24/2021 16:55:32,Reguler,S3,Dalam negeri,FOR,"Ya, dengan Loa",Ya,14,22,6,ITB
+6/24/2021 16:56:31,Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Ya,16,16,6,TU Delft
+6/24/2021 16:56:32,Reguler,S2,Luar Negeri,ART,"Ya, dengan Loa",Ya,12,14,9,UAL
+6/24/2021 16:56:35,Reguler,S2,Luar Negeri,HOS,"Ya, dengan Loa",Ya,17,17,9,Bournemouth University
+6/24/2021 16:57:13,Reguler,S2,Luar Negeri,ENT,Tidak,Tidak,16,11,6,University of Edinburgh
+6/24/2021 16:57:50,Afirmasi,S2,Dalam negeri,FOR,Tidak,Ya,16,22,8,
+6/24/2021 16:58:22,Reguler,S2,Dalam negeri,IPA,Tidak,Ya,16,17,6,UNAIR
+6/24/2021 16:59:04,Reguler,S2,Luar Negeri,ICT,Tidak,Ya,16,19,6,ANU
+6/24/2021 16:59:20,Reguler,S2,Luar Negeri,AFR,"Ya, dengan Loa",Ya,14,15,6,Wageningen University and Research
+6/24/2021 17:02:21,Reguler,S2,Luar Negeri,Bus,Tidak,Ya,18,18,7,Nus
+6/24/2021 17:04:35,Reguler,S2,Luar Negeri,Civ,Tidak,Ya,16,22,6,Uni of Michigan
+6/24/2021 17:04:53,Reguler,S2,Luar Negeri,TRA,"Ya, dengan Loa",Ya,14,19,3,University of Leeds
+6/24/2021 17:05:34,Reguler,S2,Luar Negeri,PUB,"Ya, dengan Loa",Ya,16,20,7,
+6/24/2021 17:05:39,Targeted,S3,Luar Negeri,ACF,Tidak,Ya,16,15,8,University of Manchester
+6/24/2021 17:06:35,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,14,19,5,UNAIR
+6/24/2021 17:06:37,Reguler,S2,Luar Negeri,GEO,"Ya, dengan Loa",Ya,18,20,8,University of Manchester
+6/24/2021 17:08:17,Reguler,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,18,22,2,
+6/24/2021 17:08:24,Reguler,S2,Luar Negeri,ENT,Tidak,Ya,15,21,7,LSE
+6/24/2021 17:10:50,Reguler,S2,Luar Negeri,LNY,"Ya, dengan Loa",Tidak,17,11,4,University of Groningen 
+6/24/2021 17:12:18,Reguler,S2,Luar Negeri,TRA,"Ya, dengan Loa",Ya,15,18,3,TU München
+6/24/2021 17:12:45,Reguler,S2,Luar Negeri,COM,Tidak,Ya,15,17,8,"Goldsmiths, University of London"
+6/24/2021 17:12:52,Targeted,S3,Luar Negeri,PUB,Tidak,Ya,12,16,6,ANU
+6/24/2021 17:14:39,Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,19,15,5,
+6/24/2021 17:16:12,Targeted,S3,Dalam negeri,TRP,Tidak,Ya,14,17,4,IPB
+6/24/2021 17:17:17,Reguler,S2,Luar Negeri,CIV,"Ya, dengan Loa",Ya,17,17,6,UCL
+6/24/2021 17:18:11,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,15,6,ITB
+6/24/2021 17:18:48,Reguler,S2,Luar Negeri,ACF,Tidak,Ya,14,16,9,Erasmus University Rotterdam
+6/24/2021 17:21:12,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,13,17,5,Unpad
+6/24/2021 17:23:14,Afirmasi,S2,Dalam negeri,BK,Tidak,Ya,15,8,6,UNY
+6/24/2021 17:28:14,Reguler,S2,Dalam negeri,FOR,"Ya, dengan Loa",Ya,13,15,8,Institut Pertanian Bogor
+6/24/2021 17:29:48,Reguler,S2,Luar Negeri,EDU,Tidak,Ya,13,16,6,King's College London
+6/24/2021 17:30:45,Afirmasi,S2,Dalam negeri,Bio,Tidak,Ya,8,11,4,Universitas Tadulako
+6/24/2021 17:32:01,Reguler,S2,Luar Negeri,TRA,Tidak,Ya,16,22,7,TU DELFT
+6/24/2021 17:32:48,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,15,8,8,Universitas Malang
+6/24/2021 17:33:36,Afirmasi,S2,Dalam negeri,PSY,Tidak,Ya,11,11,5,Universitas Indonesia
+6/24/2021 17:33:52,Afirmasi,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,12,10,4,UNNES
+6/24/2021 17:35:57,Reguler,S3,Luar Negeri,FOO,"Ya, dengan Loa",Ya,17,22,9,UC Davis
+6/24/2021 17:36:03,Reguler,S2,Luar Negeri,ETC,Tidak,Ya,14,14,7,The Australian National University
+6/24/2021 17:37:13,Afirmasi,S2,Luar Negeri,ETC,Tidak,Ya,17,18,6,University of Twente
+6/24/2021 17:37:36,Reguler,S2,Luar Negeri,LIN,Tidak,Ya,17,14,6,
+6/24/2021 17:37:53,Reguler,S2,Luar Negeri,COM,Tidak,Tidak,13,7,12,LSE
+6/24/2021 17:39:41,Targeted,S2,Luar Negeri,MED,Tidak,Ya,18,17,8,Uppsala University
+6/24/2021 17:47:02,Reguler,S2,Luar Negeri,GEO,Tidak,Ya,14,18,4,
+6/24/2021 17:48:19,Afirmasi,S2,Dalam negeri,IPA,"Ya, dengan Loa",Ya,18,22,5,ITB
+6/24/2021 17:57:33,Reguler,S2,Luar Negeri,LIN,"Ya, dengan Loa",Ya,17,17,7,University of Warwick 
+6/24/2021 18:00:53,Targeted,S2,Luar Negeri,ENT,Tidak,Ya,15,18,6,
+6/24/2021 18:02:09,Reguler,S2,Luar Negeri,LAW,"Ya, dengan Loa",Ya,15,18,7,Leiden University
+6/24/2021 18:04:22,Reguler,S2,Luar Negeri,DEV,"Ya, dengan Loa",Tidak,14,10,6,Erasmus University Rotterdam
+6/24/2021 18:05:28,Reguler,S2,Dalam negeri,FOR,"Ya, dengan Loa",Ya,16,14,9,ITB
+6/24/2021 18:06:07,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,19,6,UGM
+6/24/2021 18:06:53,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,12,17,6,UGM
+6/24/2021 18:08:34,Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Tidak,13,14,6,The University of Sheffield
+6/24/2021 18:11:25,Reguler,S3,Luar Negeri,PHY,Tidak,Ya,15,15,5,University of Cambridge
+6/24/2021 18:12:01,Reguler,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,18,16,6,
+6/24/2021 18:14:18,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,18,15,10,Universitas gadjah mada
+6/24/2021 18:16:10,Reguler,S2,Dalam negeri,FOR,Tidak,Ya,18,12,7,IPB
+6/24/2021 18:18:01,Reguler,S3,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,14,11,7,
+6/24/2021 18:18:46,Targeted,S3,Luar Negeri,INS,"Ya, dengan Loa",Ya,14,17,7,Ghent University
+6/24/2021 18:20:35,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,13,12,7,Universitas Gadjah Mada
+6/24/2021 18:22:55,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,18,15,7,Itb
+6/24/2021 18:23:19,Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,14,7,6,Columbia University
+6/24/2021 18:25:17,Afirmasi,S2,Luar Negeri,LIN,Tidak,Ya,13,9,5,
+6/24/2021 18:26:33,Reguler,S2,Luar Negeri,ENV,"Ya, dengan Loa",Ya,16,13,6,Imperial College London
+6/24/2021 18:26:48,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,19,15,4,ITB
+6/24/2021 18:27:50,Targeted,S2,Luar Negeri,ACC,Tidak,Ya,14,19,6,MSU
+6/24/2021 18:34:14,Reguler,S2,Luar Negeri,COM,Tidak,Ya,15,15,6,ANU
+6/24/2021 18:34:29,Targeted,S2,Luar Negeri,COM,"Ya, dengan Loa",Ya,15,16,6,KCL - Strategic Communication
+6/24/2021 18:36:26,Targeted,S2,Luar Negeri,DEV,Tidak,Ya,16,9,8,The University of Manchester
+6/24/2021 18:37:12,Reguler,S2,Dalam negeri,IPA,"Ya, dengan Loa",Tidak,12,10,4,
+6/24/2021 18:39:17,Targeted,S2,Luar Negeri,CBS,Tidak,Ya,13,6,8,Carnegie Mellon University
+6/24/2021 18:43:33,Targeted,S2,Luar Negeri,OCE,Tidak,Ya,15,21,5,Unsw
+6/24/2021 18:44:17,Targeted,S2,Luar Negeri,ENT,Tidak,Tidak,13,12,6,MIT
+6/24/2021 18:46:13,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,12,8,7,ITB
+6/24/2021 18:48:55,Reguler,S2,Luar Negeri,bus,"Ya, dengan Loa",Ya,16,19,6,
+6/24/2021 18:50:19,Reguler,S2,Luar Negeri,PUB,Tidak,Ya,19,20,5,University of Geneva
+6/24/2021 18:53:54,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,12,11,7,UGM
+6/24/2021 18:56:51,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,16,17,8,ITB
+6/24/2021 19:04:14,Reguler,S2,Luar Negeri,PUB,"Ya, dengan Loa",Ya,18,16,8,London School of Hygiene & Tropical Medicine
+6/24/2021 19:06:25,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,20,15,5,Yale
+6/24/2021 19:09:55,Targeted,S2,Dalam negeri,IPA,Tidak,Ya,12,18,5,ITB
+6/24/2021 19:10:42,Reguler,S2,Luar Negeri,MAT,Tidak,Tidak,14,12,6,TU Delft
+6/24/2021 19:11:33,Afirmasi,S2,Luar Negeri,EDU,Tidak,Ya,14,13,4,University of Bristol
+6/24/2021 19:12:58,Afirmasi,S2,Dalam negeri,Ipa,Tidak,Ya,16,6,6,
+6/24/2021 19:13:15,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,14,10,UGM
+6/24/2021 19:15:53,Reguler,S2,Luar Negeri,HUM,"Ya, dengan Loa",Ya,17,13,5,
+6/24/2021 19:16:28,Afirmasi,S2,Dalam negeri,IPA,Tidak,Ya,16,8,7,UGM
+6/24/2021 19:21:45,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,17,20,7,UGM
+6/24/2021 19:22:51,Reguler,S2,Luar Negeri,LAW,"Ya, dengan Loa",Tidak,11,7,6,
+6/24/2021 19:28:11,Reguler,S2,Luar Negeri,ARC,Tidak,Ya,17,17,3,Wageningen University & Research
+6/24/2021 19:29:59,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,11,13,3,
+6/24/2021 19:30:30,Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,16,15,5,Univ of Melbourne
+6/24/2021 19:32:11,Afirmasi,S2,Dalam negeri,SOS,Tidak,Ya,15,8,4,UIN Jakarta
+6/24/2021 19:33:48,Afirmasi,S2,Dalam negeri,IPA,Tidak,Ya,16,15,6,IPB
+6/24/2021 19:36:34,Reguler,S2,Luar Negeri,EDU,Tidak,Tidak,14,12,4,University of Sydney
+6/24/2021 19:37:43,Reguler,S2,Luar Negeri,AFR,"Ya, dengan Loa",Ya,16,14,7,WUR
+6/24/2021 19:40:55,Reguler,S2,Luar Negeri,PUB,Tidak,Ya,14,19,6,University of Melbourne
+6/24/2021 19:44:44,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,15,23,5,UI
+6/24/2021 19:45:15,Targeted,S3,Dalam negeri,For,Tidak,Ya,15,22,5,ITS
+6/24/2021 19:51:21,Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,17,6,ITB
+6/24/2021 20:00:38,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,16,17,6,universitas indonesia
+6/24/2021 20:09:10,Afirmasi,S2,Luar Negeri,STA,Tidak,Ya,21,24,10,
+6/24/2021 20:09:26,Targeted,S2,Luar Negeri,ACF,Tidak,Ya,14,16,8,
+6/24/2021 20:21:15,Reguler,S2,Luar Negeri,ENE,Tidak,Ya,17,14,6,Uni of Auckland
+6/24/2021 20:22:59,Targeted,S2,Luar Negeri,Dev,Tidak,Ya,21,23,9,
+6/24/2021 20:24:11,Afirmasi,S2,Luar Negeri,PHY,Tidak,Ya,12,8,6,
+6/24/2021 20:27:13,Reguler,S3,Dalam negeri,HUM,"Ya, dengan Loa",Tidak,16,13,5,Universitas Padjadjaran
+6/24/2021 20:27:53,Reguler,S3,Dalam negeri,BuS,"Ya, dengan Loa",Ya,16,14,6,Ui
+6/24/2021 20:30:38,Reguler,S3,Luar Negeri,PUB,Tidak,Ya,18,18,8,Monahs University
+6/24/2021 20:32:42,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,18,15,7,Cornell University
+6/24/2021 20:37:29,Reguler,S2,Luar Negeri,EAM,"Ya, dengan Loa",Tidak,10,13,8,University of Manchester
+6/24/2021 20:38:24,Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,16,9,8,UI
+6/24/2021 20:46:51,Reguler,S2,Luar Negeri,PUB,Tidak,Ya,19,14,5,University of Wisconsin - Madison
+6/24/2021 20:48:03,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,7,5,UI
+6/24/2021 20:54:59,Targeted,S2,Luar Negeri,PUB,Tidak,Ya,18,17,7,UCL
+6/24/2021 21:03:02,Afirmasi,S2,Luar Negeri,CHE,Tidak,Ya,17,12,6,Cornell University
+6/24/2021 21:10:56,Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Ya,18,15,10,Politecnico di Milano
+6/24/2021 21:12:40,Reguler,S2,Dalam negeri,IPA,"Ya, dengan Loa",Ya,17,15,8,UI
+6/24/2021 21:13:21,Reguler,S2,Luar Negeri,PSY,Tidak,Ya,15,15,7,University of Pennsylvania
+6/24/2021 21:17:22,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,16,17,7,ICL
+6/24/2021 21:21:09,Targeted,S3,Luar Negeri,NUR,Tidak,Ya,13,15,8,
+6/24/2021 21:25:39,Reguler,S2,Luar Negeri,MED,"Ya, dengan Loa",Ya,16,14,7,King’s College London
+6/24/2021 21:25:55,Reguler,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,12,19,5,UCL
+6/24/2021 21:27:09,Targeted,S3,Luar Negeri,ACF,Tidak,Ya,11,11,4,
+6/24/2021 21:39:41,Reguler,S2,Luar Negeri,ENE,"Ya, dengan Loa",Ya,13,18,5,TU Delft
+6/24/2021 21:40:25,Targeted,S2,Luar Negeri,ENT,Tidak,Ya,15,19,5,USA
+6/24/2021 21:45:03,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,15,23,5,
+6/24/2021 21:59:52,Afirmasi,S2,Luar Negeri,PUB,Tidak,Ya,12,7,2,KCL
+6/24/2021 22:02:18,Reguler,S2,Dalam negeri,FOR,"Ya, dengan Loa",Tidak,13,14,5,Universitas Indonesia
+6/24/2021 22:04:35,Targeted,S2,Luar Negeri,SOC,Tidak,Ya,16,14,5,UK
+6/24/2021 22:08:40,Reguler,S2,Dalam negeri,PSY,Tidak,Ya,18,15,7,UI
+6/24/2021 22:10:46,Targeted,S2,Luar Negeri,LAW,Tidak,Ya,10,15,4,King's College London
+6/24/2021 22:11:16,Reguler,S2,Luar Negeri,ARC,Tidak,Ya,17,17,7,
+6/24/2021 22:13:19,Reguler,S2,Luar Negeri,ARC,Tidak,Ya,18,19,5,Columbia University
+6/24/2021 22:23:08,Targeted,S2,Luar Negeri,PHA,Tidak,Ya,12,11,9,University of Birmingham 
+6/24/2021 22:23:10,Reguler,S2,Luar Negeri,GEO,Tidak,Ya,17,19,8,
+6/24/2021 22:52:46,Targeted,S3,Dalam negeri,TRP,"Ya, dengan Loa",Ya,19,20,6,ITB
+6/24/2021 22:53:39,Reguler,S2,Dalam negeri,SOS,"Ya, dengan Loa",Ya,16,16,8,
+6/24/2021 23:00:21,Targeted,S2,Luar Negeri,PUB,Tidak,Ya,18,17,7,UCL
+6/24/2021 23:12:28,Reguler,S2,Luar Negeri,PUB,Tidak,Tidak,17,9,6,JHU
+6/24/2021 23:14:54,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,17,22,6,UM
+6/24/2021 23:24:28,Afirmasi,S2,Dalam negeri,PTK,Tidak,Ya,12,12,4,UPI BANDUNG
+6/24/2021 23:25:12,Targeted,S2,Luar Negeri,SOC,Tidak,Ya,15,18,5,university of birmingham
+6/24/2021 23:43:38,Targeted,S2,Luar Negeri,SOC,Tidak,Ya,15,18,5,University of Birmingham
+6/24/2021 23:51:53,Afirmasi,S2,Luar Negeri,ART,"Ya, dengan Loa",Ya,10,11,4,Monash 
+6/25/2021 3:21:58,Afirmasi,S2,Dalam negeri,FOR,Tidak,Ya,18,22,6,ITB
+6/25/2021 4:42:47,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,18,10,4,
+6/25/2021 5:35:58,Afirmasi,S2,Luar Negeri,EDU,Tidak,Ya,16,21,5,
+6/25/2021 5:52:53,Targeted,S2,Luar Negeri,CHE,Tidak,Ya,16,16,5,Universitas Malaya
+6/25/2021 5:53:21,Reguler,S3,Luar Negeri,BUS,Tidak,Ya,19,20,3,NUS
+6/25/2021 6:07:19,Targeted,S3,Luar Negeri,ANT,Tidak,Ya,16,16,7,
+6/25/2021 6:08:59,Targeted,S3,Luar Negeri,ETC,Tidak,Ya,18,20,10,
+6/25/2021 6:15:35,Targeted,S2,Luar Negeri,LAW,"Ya, dengan Loa",Ya,13,10,7,
+6/25/2021 6:28:51,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,16,19,5,Univ. Brawijaya 
+6/25/2021 6:57:43,Reguler,S2,Luar Negeri,ENV,"Ya, dengan Loa",Tidak,15,14,5,WUR
+6/25/2021 6:59:46,Reguler,S2,Luar Negeri,ICT,"Ya, dengan Loa",Ya,19,15,9,Leiden University 
+6/25/2021 7:22:39,Targeted,S3,Luar Negeri,ECO,Tidak,Ya,16,17,8,ANU
+6/25/2021 7:22:42,Reguler,S2,Luar Negeri,ENE,Tidak,Ya,18,19,6,ETH Zurich
+6/25/2021 7:26:05,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,16,15,7,University of Amsterdam
+6/25/2021 7:50:31,Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,15,18,7,
+6/25/2021 8:26:33,Afirmasi,S3,Luar Negeri,CE,Tidak,Ya,16,13,4,RWTH Aachen
+6/25/2021 8:55:21,Reguler,S2,Luar Negeri,COM,"Ya, dengan Loa",Tidak,14,15,6,UNSW
+6/25/2021 9:08:27,Targeted,S2,Luar Negeri,SOC,"Ya, dengan Loa",Ya,10,13,7,UNSW
+6/25/2021 9:55:39,Reguler,S2,Luar Negeri,PUB,Tidak,Ya,18,18,7,UCL
+6/25/2021 10:02:56,Afirmasi,S2,Dalam negeri,LAW,Tidak,Ya,14,17,6,Universitas Indonesia
+6/25/2021 10:20:10,Reguler,S2,Luar Negeri,BIO,"Ya, dengan Loa",Tidak,12,7,4,Radboud University
+6/25/2021 10:32:17,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,11,7,5,UGM
+6/25/2021 10:36:16,Reguler,S3,Dalam negeri,Trp,"Ya, dengan Loa",Tidak,16,13,4,
+6/25/2021 10:51:32,Afirmasi,S2,Luar Negeri,FOO,Tidak,Ya,19,16,7,Wageningen
+6/25/2021 10:53:54,Reguler,S2,Luar Negeri,ACF,Tidak,Tidak,17,12,5,NUS
+6/25/2021 13:08:49,Reguler,S2,Dalam negeri,TEL,Tidak,Ya,15,18,4,
+6/25/2021 13:42:56,Reguler,S2,Luar Negeri,ENE,Tidak,Ya,14,20,4,UniMelb
+6/25/2021 13:46:38,Reguler,S2,Luar Negeri,FOO,Tidak,Ya,18,17,10,Wageningen University
+6/25/2021 13:54:50,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,15,16,5,UNIVERSITAS INDONESIA
+6/25/2021 14:12:13,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,10,9,4,UGM
+6/25/2021 14:18:31,Reguler,S2,Luar Negeri,ICT,Tidak,Ya,15,20,5,Yonsei University
+6/25/2021 14:39:48,Afirmasi,S2,Luar Negeri,MED,Tidak,Ya,8,6,6,British Columbia University Canada
+6/25/2021 16:25:25,Targeted,S3,Luar Negeri,ECO,"Ya, dengan Loa",Ya,17,13,6,
+6/25/2021 16:38:04,Reguler,S2,Luar Negeri,ENV,"Ya, dengan Loa",Ya,17,14,6,Wageningen University and Research
+6/25/2021 17:42:03,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,16,12,8,
+6/25/2021 18:07:58,Afirmasi,S2,Luar Negeri,STA,Tidak,Ya,20,17,5,Leiden University Belanda
+6/25/2021 18:14:46,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,15,23,6,UGM
+6/25/2021 18:32:46,Reguler,S2,Luar Negeri,EDu,Tidak,Ya,17,14,6,University of Texas
+6/25/2021 19:55:29,Reguler,S3,Dalam negeri,Hum,Tidak,Tidak,14,7,3,
+6/25/2021 20:35:52,Targeted,S2,Luar Negeri,LIN,"Ya, dengan Loa",Ya,18,12,8,UCL
+6/25/2021 23:24:32,Afirmasi,S2,Dalam negeri,000,"Ya, dengan Loa",Ya,6,15,3,UM
+6/26/2021 1:42:50,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,8,12,4,Universitas Negeri Malang
+6/26/2021 4:15:35,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,14,14,5,Universitas Muhammadiyah  Surakarta 
+6/26/2021 7:32:55,Afirmasi,S2,Dalam negeri,IPA,Tidak,Ya,16,8,7,UGM
+6/26/2021 8:26:36,Reguler,S2,Luar Negeri,MED,"Ya, dengan Loa",Ya,19,20,6,UCL
+6/26/2021 10:14:54,Reguler,S2,Luar Negeri,EDU,"Ya, dengan Loa",Tidak,14,9,6,University of Glasgow
+6/26/2021 12:32:38,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,13,11,3,Univ Pendidikan Indonesia/ UPI
+6/26/2021 13:45:37,Targeted,S3,Luar Negeri,ENV,Tidak,Ya,14,12,5,
+6/26/2021 18:44:31,Targeted,S2,Luar Negeri,ENT,Tidak,Ya,13,8,3,Bath School of Management: MBA
+6/26/2021 21:27:57,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,22,24,12,UGM
+6/27/2021 7:12:23,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,13,21,6,Universitas Indonesia 
+6/27/2021 11:04:13,Targeted,S2,Dalam negeri,IPA,Tidak,Ya,14,15,5,
+6/27/2021 19:46:40,Reguler,S2,Dalam negeri,FOR,"Ya, dengan Loa",Tidak,16,13,5,Universitas Indonesia
+6/28/2021 6:09:25,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,15,16,6,UGM
+6/28/2021 6:13:34,Targeted,S3,Luar Negeri,COM,Tidak,Ya,18,15,8,NTU
+6/28/2021 6:16:28,Reguler,S2,Dalam negeri,EDU,Tidak,Ya,12,16,8,Universitas Pendidikan Indonesia
+6/28/2021 9:48:41,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,12,16,7,Sriwijaya
+6/28/2021 11:46:09,Reguler,S2,Luar Negeri,COM,Tidak,Ya,17,15,7,New York University
+6/28/2021 14:44:09,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,17,23,6,ITS
+6/28/2021 19:04:31,Reguler,S3,Luar Negeri,BUS,Tidak,Tidak,15,10,8,Sheffield
+6/30/2021 20:33:37,Targeted,S2,Luar Negeri,DEV,"Ya, dengan Loa",Ya,13,10,9,
+6/30/2021 20:50:30,Targeted,S2,Luar Negeri,SGY,"Ya, dengan Loa",Ya,12,14,6,University of york
+6/30/2021 21:28:27,Reguler,S2,Luar Negeri,ENT,Tidak,Ya,16,18,5,
+6/30/2021 22:07:19,Targeted,S2,Dalam negeri,PSY,Tidak,Ya,13,15,7,UGM
+6/30/2021 23:48:03,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,12,7,6,UM
+7/1/2021 0:28:32,Reguler,S2,Luar Negeri,ACF,"Ya, dengan Loa",Ya,19,16,6,Warwick
+7/1/2021 2:26:14,Reguler,S3,Dalam negeri,HUM,Tidak,Tidak,13,9,7,UPI
+7/1/2021 12:05:23,Reguler,S2,Dalam negeri,SOS,Tidak,Ya,15,18,5,UGM
+7/1/2021 12:44:09,Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,13,16,4,UCL
+7/1/2021 15:07:05,Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,11,12,6,Institut Pertanian Bogor
+7/1/2021 16:40:08,Afirmasi,S2,Dalam negeri,PTK,Tidak,Ya,15,14,5,UNY
+7/1/2021 16:58:41,Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,17,13,7,
+7/1/2021 19:29:09,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,15,15,5,UGM
+7/1/2021 19:36:09,Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Tidak,15,8,6,University of Warwick
+7/2/2021 12:00:23,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,18,14,8,UI
+7/2/2021 13:25:38,Reguler,S2,Dalam negeri,SOS,Tidak,Ya,17,20,5,
+7/2/2021 19:56:23,Reguler,S2,Luar Negeri,ARC,Tidak,Ya,13,15,6,UCL
+7/2/2021 23:23:33,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,14,16,5,UI
+7/3/2021 7:49:31,Reguler,S2,Luar Negeri,PHA,Tidak,Ya,16,19,6,Osaka university
+7/3/2021 9:08:04,Reguler,S2,Dalam negeri,TRP,"Ya, dengan Loa",Ya,18,22,4,UGM
+7/3/2021 10:02:31,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,15,10,7,ugm
+7/5/2021 11:43:23,Targeted,S3,Luar Negeri,PHY,Tidak,Ya,13,16,6,
+7/5/2021 14:42:11,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,14,15,8,UI
+7/7/2021 0:02:45,Reguler,S3,Luar Negeri,MED,"Ya, dengan Loa",Ya,17,17,4,University of Groningen
+7/7/2021 8:06:53,Afirmasi,S2,Luar Negeri,PUB,Tidak,Ya,15,13,8,University of Melbourne
+7/23/2021 10:13:31,Reguler,S2,Luar Negeri,LAW,"Ya, dengan Loa",Ya,14,17,8,
+7/27/2021 9:46:11,Reguler,S2,Luar Negeri,ARC,"Ya, dengan Loa",Ya,15,20,4,politecnico di milano
+7/30/2021 9:34:11,Reguler,S2,Luar Negeri,arc,Tidak,Ya,17,15,6,ucl
+8/23/2021 10:56:06,Reguler,S2,Dalam negeri,Psi,Tidak,Tidak,13,14,5,UI
+9/9/2021 11:48:14,Targeted,S2,Dalam negeri,BUS,Tidak,Ya,12,18,7,
+9/10/2021 1:37:07,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,19,6,UGM
+9/10/2021 7:40:38,Afirmasi,S2,Dalam negeri,TRP,Tidak,Ya,12,11,7,Universitas Gadjah Mada
+9/11/2021 16:50:44,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,15,14,7,ITB
+9/26/2021 18:38:16,Afirmasi,S2,Dalam negeri,BUS,Tidak,Ya,16,9,5,Universitas Indonesia
+10/11/2021 11:23:42,Targeted,S2,Dalam negeri,TRP,"Ya, dengan Loa",Tidak,16,6,5,undip
+10/11/2021 14:35:53,Targeted,S3,Dalam negeri,BUS,"Ya, dengan Loa",Tidak,15,6,4,unpad
+10/11/2021 15:24:16,Afirmasi,S2,Dalam negeri,TP,Tidak,Tidak,0,0,0,Universitas Sebelas Maret
+10/11/2021 15:32:47,Reguler,S2,Luar Negeri,PSY,Tidak,Tidak,16,5,7,
+10/11/2021 17:20:37,Reguler,S2,Luar Negeri,DEV,Tidak,Tidak,18,7,9,
+10/11/2021 17:29:10,Reguler,S2,Luar Negeri,BUS,"Ya, dengan Loa",Ya,12,12,7,
+10/11/2021 17:35:40,Targeted,S3,Dalam negeri,HUM,Tidak,Tidak,10,7,7,UGM
+10/11/2021 22:00:36,Reguler,S2,Dalam negeri,FOR,Tidak,Tidak,14,13,9,ITB
+10/12/2021 6:51:28,Afirmasi,S2,Dalam negeri,TFM,Tidak,Ya,11,7,5,UGM
+10/12/2021 10:04:52,Targeted,S3,Dalam negeri,TRP,Tidak,Tidak,18,11,7,Unhas
+10/12/2021 11:45:49,Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,9,8,8,Universitas Airlangga
+10/12/2021 12:49:42,Afirmasi,S2,Dalam negeri,TRP,Tidak,Tidak,13,7,9,UNY
+10/12/2021 12:53:58,Afirmasi,S2,Dalam negeri,Bus,Tidak,Tidak,9,2,4,ISI Denpasar
+10/12/2021 13:12:19,Afirmasi,S2,Dalam negeri,AGB,Tidak,Ya,8,10,4,Institut Pertanian Bogor
+10/12/2021 13:22:39,Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,13,8,6,Universitas Indonesia
+10/12/2021 13:45:20,Afirmasi,S2,Dalam negeri,TRP,Tidak,Tidak,14,13,7,Upi
+10/12/2021 14:40:15,Targeted,S2,Luar Negeri,BUS,Tidak,Ya,17,9,7,
+10/12/2021 14:53:43,Afirmasi,S2,Dalam negeri,Law,Tidak,Tidak,15,11,5,Universitas Indonesia
+10/12/2021 14:54:25,Targeted,S2,Dalam negeri,BUS,Tidak,Tidak,13,13,8,Universitas hasanuddin
+10/12/2021 15:16:54,Afirmasi,S2,Dalam negeri,TRP,Tidak,Tidak,12,7,5,Universitas Negeri Yogyakarta
+10/12/2021 23:26:47,Targeted,S2,Dalam negeri,BUS,Tidak,Tidak,8,14,4,UGM
+10/13/2021 0:44:44,Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,16,8,5,UI
+10/13/2021 4:22:03,Afirmasi,S2,Luar Negeri,BUS,Tidak,Tidak,18,18,4,Kings College London
+10/13/2021 10:23:27,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,15,13,7,Universitas Airlangga
+10/13/2021 10:26:19,Reguler,S2,Dalam negeri,IPA,Tidak,Tidak,11,10,5,ITB
+10/13/2021 10:47:05,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,11,7,7,UB
+10/13/2021 10:47:22,Reguler,S3,Dalam negeri,Hum,Tidak,Tidak,12,6,7,
+10/13/2021 11:40:04,Reguler,S2,Luar Negeri,FOO,"Ya, dengan Loa",Ya,19,23,10,
+10/13/2021 11:40:17,Reguler,S2,Dalam negeri,TRP,Tidak,Ya,17,9,9,ITB
+10/13/2021 13:45:48,Reguler,S3,Dalam negeri,TRP,Tidak,Tidak,13,14,8,
+10/13/2021 13:52:15,Reguler,S2,Dalam negeri,BUS,Tidak,Ya,18,12,7,
+10/13/2021 13:55:35,Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,13,9,7,Unhas
+10/13/2021 14:25:45,Targeted,S2,Luar Negeri,ENT,Tidak,Ya,14,13,10,
+10/13/2021 15:31:14,Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,15,9,6,"UGM, UI"
+10/13/2021 15:43:01,Targeted,S2,Dalam negeri,SOS,"Ya, dengan Loa",Ya,15,7,7,UGM
+10/13/2021 17:48:21,Targeted,S2,Dalam negeri,TRP,Tidak,Tidak,15,5,5,Institut Teknologi Bandung
+10/13/2021 20:21:59,Reguler,S2,Dalam negeri,718,Tidak,Tidak,23,25,12,UGM
+10/16/2021 8:54:13,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,14,14,6,UI
+10/18/2021 14:20:18,Targeted,S2,Luar Negeri,ENT,Tidak,Tidak,15,7,9,Imperial College London
+10/19/2021 21:23:43,Targeted,S2,Dalam negeri,TRP,Tidak,Ya,17,11,6,
+10/29/2021 17:17:58,Reguler,S2,Luar Negeri,PSY,Tidak,Ya,18,12,7,
+12/30/2021 15:14:12,Reguler,S2,Luar Negeri,ENG,"Ya, dengan Loa",Tidak,15,12,4,University of Adelaide 
+4/19/2022 13:00:18,Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,19,11,7,UCL
+4/19/2022 15:12:47,Targeted,S2,Luar Negeri,PUB,Tidak,Tidak,17,11,9,"University of York, UK"
+4/19/2022 15:15:25,Afirmasi,S2,Dalam negeri,SOS,Tidak,Ya,19,21,8,
+4/19/2022 16:01:56,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,18,18,7,
+4/19/2022 19:07:07,Reguler,S2,Luar Negeri,M,Tidak,Tidak,20,12,6,UQ
+4/20/2022 14:09:07,Afirmasi,S2,Luar Negeri,GEO,Tidak,Tidak,17,8,7,Nagoya University
+4/20/2022 14:48:38,Afirmasi,S2,Dalam negeri,TRP,Tidak,Tidak,18,9,5,Universitas Pendidikan Indonesia
+4/20/2022 14:50:43,Afirmasi,S2,Luar Negeri,MIN,Tidak,Ya,19,15,5,
+4/20/2022 14:52:45,Reguler,S2,Luar Negeri,OTH,Tidak,Ya,20,21,7,University of Manchester
+4/20/2022 14:58:34,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,15,13,6,
+4/20/2022 14:59:27,Reguler,S2,Luar Negeri,BUS,Tidak,Ya,15,14,7,
+4/20/2022 15:08:01,Reguler,S2,Luar Negeri,PUB,Tidak,Tidak,20,11,9,
+4/20/2022 15:12:39,Reguler,S2,Dalam negeri,BIO,Tidak,Tidak,15,9,3,ITB
+4/20/2022 15:15:25,Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,19,12,7,Columbia University
+4/20/2022 15:15:28,Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,16,12,6,
+4/20/2022 15:18:27,Targeted,S2,Luar Negeri,PUB,Tidak,Tidak,17,15,6,Edinburgh
+4/20/2022 15:22:08,Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,19,11,8,Universitas Indonesia 
+4/20/2022 15:27:16,Targeted,S2,Dalam negeri,BUS,Tidak,Tidak,15,13,7,ugm
+4/20/2022 15:27:48,Afirmasi,S2,Dalam negeri,BUS,Tidak,Tidak,16,13,4,UGM
+4/20/2022 15:29:20,Reguler,S2,Luar Negeri,ETC,Tidak,Tidak,20,17,7,University of Sydney
+4/20/2022 15:33:55,Afirmasi,S2,Dalam negeri,TRP,Tidak,Tidak,19,8,2,UI
+4/20/2022 15:47:08,Reguler,S2,Luar Negeri,ARC,Tidak,Tidak,20,9,4,
+4/20/2022 16:07:22,Reguler,S2,Dalam negeri,MAR,Tidak,Tidak,13,15,7,
+4/20/2022 16:48:24,Targeted,S2,Luar Negeri,FIN,Tidak,Tidak,22,14,7,University of Edinburgh
+4/20/2022 17:56:10,Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,16,20,6,University of Manchester
+4/20/2022 22:14:57,Afirmasi,S2,Luar Negeri,ENG,Tidak,Ya,14,15,2,
+4/20/2022 22:19:13,Reguler,S2,Luar Negeri,PUB,Tidak,Ya,18,9,5,Trinity College Dublin
+4/20/2022 23:59:29,Targeted,S3,Luar Negeri,MAT,Tidak,Tidak,20,14,7,Warwick 
+4/21/2022 2:13:50,Reguler,S2,Luar Negeri,ART,Tidak,Tidak,19,17,7,RCA
+4/21/2022 3:50:19,Afirmasi,S2,Dalam negeri,FOR,Tidak,Tidak,18,19,6,UGM
+4/21/2022 10:23:23,Reguler,S2,Luar Negeri,BUS,Tidak,Tidak,17,16,6,
+4/21/2022 19:50:48,Reguler,S2,Luar Negeri,ACC,Tidak,Tidak,20,8,10,Manchester
+4/22/2022 11:01:17,Reguler,S2,Dalam negeri,BUS,Tidak,Tidak,18,13,5,ITB
+4/22/2022 11:05:05,Reguler,S2,Dalam negeri,ACF,Tidak,Tidak,20,13,5,Universitas Gadjah Mada
+4/22/2022 12:00:27,Reguler,S3,Dalam negeri,TRP,Tidak,Tidak,18,9,5,UI
+4/23/2022 9:19:55,Reguler,S2,Luar Negeri,COM,Tidak,Tidak,18,10,5,
+4/23/2022 13:02:21,Targeted,S3,Luar Negeri,Edu,Tidak,Tidak,20,11,3,Monash university
+4/24/2022 4:06:52,Reguler,S2,Dalam negeri,TRP,Tidak,Tidak,17,10,7,UI
+9/7/2022 13:18:15,Reguler,S2,Luar Negeri,DEV,Tidak,Tidak,18,7,8,Australian National University
